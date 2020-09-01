@@ -1,7 +1,7 @@
 # Alexey Gorbachevskiy 
   
 ## Contact info:  
-**Phone:** +375 (29) 636-17-79
+**Phone:** +375 (29) 636-17-79  
 **E-mail:** alexeygorbachevskiyy@gmail.com  
 **Skype:** live:.cid.dbd0d146d494ef60
   
@@ -13,24 +13,24 @@ I attended front-end courses of IT-incubator.
 There I studied predominantly React/Redux libraries and not only. 
 Also, I participated in development of different applications. 
 
-My portfolio: https://alexeygorbachevskiy.github.io/Portfolio
+My portfolio: [https://alexeygorbachevskiy.github.io/Portfolio](https://alexeygorbachevskiy.github.io/Portfolio)
 
 ## Skills:  
-- JavaScript, TypeScript, React, Redux, Html, Css, Sass/Scss.
+- JavaScript, TypeScript, React, Redux, Html, Css, Sass/Scss
 - ISTQB Certified Tester
   
 
 ## Code examples:  
- My github: https://github.com/AlexeyGorbachevskiy
- My codewars: https://www.codewars.com/users/Alexey%20Gorbachevskiy
+-My github: [https://github.com/AlexeyGorbachevskiy](https://github.com/AlexeyGorbachevskiy)  
+-My codewars: [https://www.codewars.com/users/Alexey%20Gorbachevskiy](https://www.codewars.com/users/Alexey%20Gorbachevskiy)
   
 
 ## Experience:  
- Courses of React.js 'IT-Incubator'
+-Courses of React.js 'IT-Incubator'
 
    
 ## Education:  
- Belarusian State University of Informatics and Radioelectronics.
+-Belarusian State University of Informatics and Radioelectronics.
   
 ## English:  
-Intermediate (B1)
+-Intermediate (B1)
