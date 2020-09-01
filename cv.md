@@ -26,7 +26,7 @@ My portfolio: [https://alexeygorbachevskiy.github.io/Portfolio](https://alexeygo
   
 
 ## Experience:  
--Courses of React.js 'IT-Incubator'
+-Courses: JS, React "IT-Incubator"
 
    
 ## Education:  
